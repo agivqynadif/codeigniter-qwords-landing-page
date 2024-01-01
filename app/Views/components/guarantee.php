@@ -7,7 +7,7 @@
                 </a>
             </div>
             <div class="col mt-3 ms-3 py-5">
-                <p class="fs-1 fw-bold text-start"><strong>Garansi 30 Hari Uang Kembali</strong> <br> <strong style="color: #ff6d0b;"> Uang Kembali 💰</strong></p>
+                <p class="fs-1 fw-bold text-start"><strong>Garansi 30 Hari</strong> <br> <strong style="color: #ff6d0b;"> Uang Kembali 💰</strong></p>
                 <p class="fs-6 fw-semibold text-start">Untuk menjaga kepuasan pelanggan, kami memberikan garansi uang kembali yang berlaku hingga 30 hari setelah hosting aktif.</p>
             </div>
         </div>
