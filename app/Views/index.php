@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
   <link rel="shortcut icon" type="image/png" href="https://www.qwords.com/wp-content/uploads/2022/12/cropped-logo-qw-light-32x32.png">
   <title>Qwords: Cloud Hosting untuk Kesuksesan Websitemu!</title>
 
@@ -24,6 +25,14 @@
     <?php include('components/header.php'); ?>
     <?php include('components/introduction.php'); ?>
     <?php include('components/domain.php'); ?>
+    <?php include('components/hosting-order.php'); ?>
+    <?php include('components/other-services.php'); ?>
+    <?php include('components/commitment.php'); ?>
+    <?php include('components/guarantee.php'); ?>
+    <?php include('components/dream-web.php'); ?>
+    <?php include('components/payment-method.php'); ?>
+    <?php include('components/contact.php'); ?>
+    <?php include('components/footer.php'); ?>
   </div>
 
 

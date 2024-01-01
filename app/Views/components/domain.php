@@ -1,6 +1,6 @@
 <div class="container-fluid py-3" style="background-color: #ff6d0b;">
-    <p class="fs-2 fw-bold text-white text-center mt-3">Cari Nama Domainmu</p>
-    <p class="fs-6 fw-semibold text-white text-center">Nama Domain digunakan untuk mempermudah pengunjung <br> menuju ke situs Anda. Pilih nama domain yang paling mencerminkan bisnis, produk, <br>atau layanan Anda.</p>
+    <p class="fs-2 fw-bold text-white text-center mt-3"><strong>Cari Nama Domainmu</strong></p>
+    <p class="fs-5 fw-normal text-white text-center">Nama Domain digunakan untuk mempermudah pengunjung <br> menuju ke situs Anda. Pilih nama domain yang paling mencerminkan bisnis, produk, <br>atau layanan Anda.</p>
 
 
     <div class="d-flex flex-nowrap mt-5" style="justify-content:center; align-items: center;">
